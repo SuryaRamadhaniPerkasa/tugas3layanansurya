@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color blue
+color green
+color purple_200
+color purple_500
+color purple_700
+color red
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable market
+drawable police
+drawable rs
+drawable sekolah
+id ivHospital
+id ivMarket
+id ivPolice
+id ivSchool
+layout activity_main
+layout desain
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Intentapp
